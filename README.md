@@ -1,4 +1,4 @@
-# MACHINE-LEARNING
+# MACHINE-LEARNING(Final Project)
 ## Enhancing Line Thresholding with CNN and MLP Optimization of HSL Values
 
 ### Introduction
