@@ -12,7 +12,7 @@ Line thresholding is a critical task in computer vision applications. Our novel 
 ### Deep Neural Network Structure
 The structure of the Deep Neural Network is as follows:
 
-![DNN Structure](https://github.com/IKEMBOT/MACHINE-LEARNING/assets/90126322/e21a0cf4-8995-44fa-8127-582584d64e66)
+![DNN Structure](https://github.com/IKEMBOT/Machine-Learning/blob/main/Network.png)
 
 Our DNN architecture consists of multiple convolutional layers that learn hierarchical features from input images. The MLP fine-tunes the line thresholding process by optimizing HSL values. This hybrid approach achieves superior results compared to traditional thresholding methods.
 
