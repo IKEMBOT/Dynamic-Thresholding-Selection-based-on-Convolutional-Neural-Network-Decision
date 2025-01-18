@@ -5,7 +5,7 @@ In this project, we aim to enhance line thresholding using Convolutional Neural 
 For data collection, I utilized the following toolkit made by ownself used simple design to get the parameter but adjust the proper value:
 | **Robot Used for Data Collection** | **Data Collection Toolkit** |
 |:----------------------------------:|:---------------------------:|
-| ![Robot Image](https://raw.githubusercontent.com/IKEMBOT/MACHINE-LEARNING/main/assets/robot_data_collection.jpg) | ![Toolkit Image](https://github.com/IKEMBOT/MACHINE-LEARNING/assets/90126322/e78e0045-51bc-41a0-bf43-bcdf30f0282f) |
+| ![Robot Image](https://github.com/IKEMBOT/Machine-Learning/blob/main/Robot_.jpeg) | ![Toolkit Image](https://github.com/IKEMBOT/MACHINE-LEARNING/assets/90126322/e78e0045-51bc-41a0-bf43-bcdf30f0282f) |
 
 
 
