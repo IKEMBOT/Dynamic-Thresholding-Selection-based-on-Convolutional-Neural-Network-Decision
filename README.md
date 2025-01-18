@@ -1,5 +1,5 @@
-# MACHINE-LEARNING(Final Project)
-In this project, we aim to enhance line thresholding using Convolutional Neural Networks (CNN) and a Multi-Layer Perceptron (MLP) for optimizing Hue, Saturation, and Lightness (HSL) values. The title of this project is "Enhancing Line Thresholding with CNN and MLP Optimization of HSL Values".
+# Machine Learning
+In this project, we aim to enhance line thresholding using Convolutional Neural Networks (CNN) and a Multi-Layer Perceptron (MLP) for optimizing Hue, Saturation, and Lightness (HSL) values. The title of this project is "Enhancing Line Thresholding with CNN and MLP Optimization of HSL Values". this project required to the end of the semester about machine learning class with implemented on the car that will help to define which is lane with automaticly or dymic thresholding in order to robust information for the Autonomous car.
 
 #### Data Collection
 For data collection, I utilized the following toolkit made by ownself used simple design to get the parameter but adjust the proper value:
