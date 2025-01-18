@@ -3,8 +3,10 @@ In this project, we aim to enhance line thresholding using Convolutional Neural 
 
 #### Data Collection
 For data collection, I utilized the following toolkit made by ownself used simple design to get the parameter but adjust the proper value:
+| **Robot Used for Data Collection** | **Data Collection Toolkit** |
+|:----------------------------------:|:---------------------------:|
+| ![Robot Image](https://raw.githubusercontent.com/IKEMBOT/MACHINE-LEARNING/main/assets/robot_data_collection.jpg) | ![Toolkit Image](https://github.com/IKEMBOT/MACHINE-LEARNING/assets/90126322/e78e0045-51bc-41a0-bf43-bcdf30f0282f) |
 
-![Data Collection Toolkit](https://github.com/IKEMBOT/MACHINE-LEARNING/assets/90126322/e78e0045-51bc-41a0-bf43-bcdf30f0282f)
 
 
 Line thresholding is a critical task in computer vision applications. Our novel approach combines CNNs for feature extraction and MLP for optimizing HSL values. This combination enhances the model's ability to handle variations in lighting and background conditions, leading to more accurate line detection.
