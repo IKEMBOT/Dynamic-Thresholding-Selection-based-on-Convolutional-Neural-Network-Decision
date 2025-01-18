@@ -1,11 +1,8 @@
 # MACHINE-LEARNING(Final Project)
-## Enhancing Line Thresholding with CNN and MLP Optimization of HSL Values
-
-### Introduction
-In this project, we aim to enhance line thresholding using Convolutional Neural Networks (CNN) and Multi-Layer Perceptron (MLP) optimization of Hue, Saturation, and Lightness (HSL) values.
+In this project, we aim to enhance line thresholding using Convolutional Neural Networks (CNN) and a Multi-Layer Perceptron (MLP) for optimizing Hue, Saturation, and Lightness (HSL) values. The title of this project is "Enhancing Line Thresholding with CNN and MLP Optimization of HSL Values".
 
 #### Data Collection
-For data collection, I utilized the following toolkit made by ownself:
+For data collection, I utilized the following toolkit made by ownself used simple design to get the parameter but adjust the proper value:
 
 ![Data Collection Toolkit](https://github.com/IKEMBOT/MACHINE-LEARNING/assets/90126322/e78e0045-51bc-41a0-bf43-bcdf30f0282f)
 
