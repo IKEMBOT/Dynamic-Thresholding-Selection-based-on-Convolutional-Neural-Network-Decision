@@ -21,7 +21,7 @@ Our DNN architecture consists of multiple convolutional layers that learn hierar
 
 Below are the results from the evaluation of our model and the prediction output from the CNN model:
 
-| **MSE Error Evaluation Result** | **CNN Prediction Result** |
+| **MSE Evaluation Result** | **Prediction Output** |
 |:-------------------------------:|:-------------------------:|
 | ![Evaluation Result](https://github.com/IKEMBOT/MACHINE-LEARNING/assets/90126322/18334ecf-7b7b-4386-b950-47c02354ba0b) | ![CNN Prediction](https://github.com/IKEMBOT/MACHINE-LEARNING/assets/90126322/003ee2bd-6ddb-441a-a9e1-918932496eb8) |
 
